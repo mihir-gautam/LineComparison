@@ -10,3 +10,4 @@ C:\Users\Mihir Gautam\source\repos\LineComparison\LineComparison\obj\Debug\netco
 C:\Users\Mihir Gautam\source\repos\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.dll
 C:\Users\Mihir Gautam\source\repos\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.pdb
 C:\Users\Mihir Gautam\source\repos\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.genruntimeconfig.cache
+C:\Users\Mihir Gautam\source\repos\LineComparison\LineComparison\obj\Debug\netcoreapp3.1\LineComparison.csprojAssemblyReference.cache
