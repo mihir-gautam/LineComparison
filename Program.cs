@@ -32,11 +32,11 @@ namespace LineComparison
             double LengthOfLine2 = lengthOfLine();
             Console.WriteLine("Length of line 2 : " + LengthOfLine2);
 
-            if(LengthOfLine1 == LengthOfLine2)
+            if(LengthOfLine1.Equals(LengthOfLine2))
             {
                 Console.WriteLine("Both lines are equal in length");
             }
-            else if (LengthOfLine1 > LengthOfLine2)
+            else if (LengthOfLine1.CompareTo(LengthOfLine2) >0 )
             {
                 Console.WriteLine("Line 1 is greater than Line 2");
             }
